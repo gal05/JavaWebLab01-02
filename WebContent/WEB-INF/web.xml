@@ -1,0 +1,3 @@
+<filter-mapping>
+    <servlet-name MSG_LOGIN_FAILED="Ingreso sus datos incorrectamente" MSG_WELCOME="Bienvenido al laboratorio 3 ">LoginServlet</servlet-name>
+</filter-mapping>
